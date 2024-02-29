@@ -1,0 +1,17 @@
+body{
+    background-color: #00aa;
+}
+header{
+    display: flex;
+}
+#leftheader{
+    width: 40%
+}
+#rightheader{
+    display: flex;
+    padding: 30px;
+    text-align: right;
+}
+.rightheadings{
+    margin: 20px;
+}
